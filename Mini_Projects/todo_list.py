@@ -15,6 +15,6 @@ class activties:
 '''Things needed to add to this project
 1. to search more features like either website or appliction or gui or django
 2. save in notepad
-3. reopening'''
+3. reopening '''
 
 
